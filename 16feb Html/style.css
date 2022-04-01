@@ -1,0 +1,49 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.webdev{
+
+    display:flex;
+    background-color: skyblue;
+    justify-content: space-between;
+}
+
+.webdev .home{
+    background-color: red;
+
+}
+
+.webdev2{
+
+    display:flex;
+    background-color: skyblue;
+    width: 400px;
+    justify-content: space-around;
+}
+
+.aboutus{
+    height: 30px;
+    width: 80px;
+    display: flex;
+    background-color: aquamarine;
+    border-radius: 20;
+
+}
+
+.browse{
+    height: 30px;
+    width: 50px;
+    display: flex;
+    background-color: aquamarine;
+    border-radius: 20;
+}
+
+.inputbox{
+    height: 30px;
+    width: 50px;
+    display: flex;
+    border-radius: 20;
+}

@@ -1,0 +1,30 @@
+/* attributes selector  */
+/* class */
+
+.first-div{
+    margin: 10px;
+    height: 50px;
+    width: 10;
+    background-color: red;
+
+}
+
+.second-div{
+    padding: 10px;
+    background-color: blue;
+}
+.third-div{
+    background-color: green;
+}
+/* id is unique */
+#fourth{
+    background-color: lightblue;
+}
+.second-div{
+    height: 100px;
+    width: 100px;
+    background-color: lightblue;
+}
+.third-div{
+background-color: blueviolet;
+}
